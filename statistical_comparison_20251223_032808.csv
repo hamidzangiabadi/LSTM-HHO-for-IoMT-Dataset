@@ -1,4 +1,0 @@
-Comparison,Mean_Improvement_%,Best_Result,Worst_Result
-HHO vs Baseline,0.053499,0.998505,0.998448
-MHHO vs Baseline,0.051501,0.998498,0.998436
-MHHO vs HHO,-0.001997,0.998498,0.998436
